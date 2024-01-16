@@ -28,4 +28,9 @@ After you have installed the dependencies, set up the database configuration. He
 1. MongoDB
 
 
+## NOTE
+if my front repositoreies not found, visit here
+git@github.com:eotambunan/alan-front.git
+
+
 
